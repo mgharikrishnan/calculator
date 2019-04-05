@@ -9,6 +9,6 @@ public class CalculatorTest {
 
      @Test
      public void testSum() {
-          assertEquals(10, calculator.sum(5, 5));
+          assertEquals(6, calculator.sum(3, 3));
      }
 }
